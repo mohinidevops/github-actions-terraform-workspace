@@ -15,7 +15,7 @@ jobs:
     name: Deploy
     runs-on: ubuntu-latest
     env:
-      environment: prod
+      environment: prod1
 
     steps:
     - name: Checkout
